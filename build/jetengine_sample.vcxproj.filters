@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\sample\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\sample\JetEngineSample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HeavyContext.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvHeavy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\Heavy_jetengine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvControlBinop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvControlCast.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvControlIf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvControlRandom.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvControlSlice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvControlSystem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvControlUnop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvControlVar.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvLightPipe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvMessage.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvMessagePool.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvMessageQueue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvSignalBiquad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvSignalCPole.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvSignalDel1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvSignalPhasor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvSignalRPole.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvSignalVar.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvTable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\c\HvUtils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ajaykumar.V\Downloads\AVAS\avas_synthesis\sample\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E6D07932-35E8-30C8-933E-DDAA0D5FDF73}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

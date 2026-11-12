@@ -2,9 +2,11 @@
 
 This example uses the generated `c/` Heavy patch. It accepts decoded vehicle
 speed in km/h and renders float audio into application-owned buffers. The patch
-generates stereo; the sample demonstrates downmixing it to mono. The demo
-supplies representative speeds; it does not read a CAN interface or open an
-audio device.
+exposes two output channels; the current generated graph writes the same signal
+to both (dual mono), and the sample demonstrates downmixing it to mono. The
+demo supplies representative speeds; it does not read a CAN interface or open
+an audio device. See [CODE_FLOW.md](CODE_FLOW.md) for the traced speed-to-audio
+flow and buffer details.
 
 The generated patch exposes a `speed` parameter with a 0.1–1.0 range. The
 adapter maps 0 km/h to the parameter minimum and the configured maximum speed
